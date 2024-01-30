@@ -1,6 +1,6 @@
 Pyrogram==2.0.33
 TgCrypto==1.2.3
-aiohttp==3.9.1
+aiohttp==3.9.2
 python-dotenv==0.20.0
 motor
 aiofiles
